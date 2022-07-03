@@ -2,7 +2,8 @@
 First github R
 ##First github R
 
-##head2##
+## Head 2
+
 This is a test for **introduction** *section* 
 
 
